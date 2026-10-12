@@ -1,0 +1,184 @@
+{
+  "seedVersion": 24,
+  "codes": [
+    {
+      "category": "LOCATION",
+      "code": "TR0010001",
+      "name": "본관 경비실",
+      "nameEn": "Main Building - Security Office",
+      "sortOrder": 1,
+      "active": true,
+      "area": "정문게이트"
+    },
+    {
+      "category": "LOCATION",
+      "code": "TR0010002",
+      "name": "제련동 출입구",
+      "nameEn": "Smelter Wing Entrance",
+      "sortOrder": 2,
+      "active": true,
+      "area": "정문게이트"
+    },
+    {
+      "category": "LOCATION",
+      "code": "TR0010003",
+      "name": "품질실험실",
+      "nameEn": "Quality Lab",
+      "sortOrder": 3,
+      "active": true,
+      "area": "정문게이트"
+    },
+    {
+      "category": "LOCATION",
+      "code": "TR0010004",
+      "name": "창고 A동",
+      "nameEn": "Warehouse A",
+      "sortOrder": 4,
+      "active": true,
+      "area": "정문게이트"
+    },
+    {
+      "category": "LOCATION",
+      "code": "TR0010005",
+      "name": "사무동 로비",
+      "nameEn": "Office Lobby",
+      "sortOrder": 5,
+      "active": true,
+      "area": "단지내"
+    },
+    {
+      "category": "LOCATION",
+      "code": "TR0010006",
+      "name": "정비작업장",
+      "nameEn": "Maintenance Shop",
+      "sortOrder": 6,
+      "active": true,
+      "area": "단지내"
+    },
+    {
+      "category": "PURPOSE",
+      "code": "0001",
+      "name": "회의참석 및 업무협의",
+      "nameEn": "Meeting and Business Consultation",
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "category": "PURPOSE",
+      "code": "0002",
+      "name": "자재납품",
+      "nameEn": "Material Delivery",
+      "sortOrder": 2,
+      "active": true
+    },
+    {
+      "category": "PURPOSE",
+      "code": "0003",
+      "name": "설비점검",
+      "nameEn": "Equipment Inspection",
+      "sortOrder": 3,
+      "active": true
+    },
+    {
+      "category": "PURPOSE",
+      "code": "0004",
+      "name": "교육·견학",
+      "nameEn": "Training / Tour",
+      "sortOrder": 4,
+      "active": true
+    },
+    {
+      "category": "PURPOSE",
+      "code": "0005",
+      "name": "기타",
+      "nameEn": "Other",
+      "sortOrder": 5,
+      "active": true
+    },
+    {
+      "category": "VISIT_CARD",
+      "code": "501",
+      "name": "만현방문증001",
+      "nameEn": "",
+      "sortOrder": 0,
+      "active": true,
+      "visitType": "정기출입"
+    },
+    {
+      "category": "VISIT_CARD",
+      "code": "502",
+      "name": "만현방문증002",
+      "nameEn": "",
+      "sortOrder": 0,
+      "active": true,
+      "visitType": "정기출입"
+    },
+    {
+      "category": "VISIT_CARD",
+      "code": "503",
+      "name": "만현방문증003",
+      "nameEn": "",
+      "sortOrder": 0,
+      "active": true,
+      "visitType": "방문(일반)"
+    },
+    {
+      "category": "VISIT_CARD",
+      "code": "504",
+      "name": "만현방문증004",
+      "nameEn": "",
+      "sortOrder": 0,
+      "active": true,
+      "visitType": "단기근로"
+    },
+    {
+      "category": "VISIT_CARD",
+      "code": "505",
+      "name": "만현방문증005",
+      "nameEn": "",
+      "sortOrder": 0,
+      "active": true,
+      "visitType": "공사(납품)"
+    },
+    {
+      "category": "DEVICE",
+      "code": "0001",
+      "name": "노트북",
+      "nameEn": "Laptop",
+      "sortOrder": 1,
+      "active": true
+    },
+    {
+      "category": "DEVICE",
+      "code": "0002",
+      "name": "태블릿",
+      "nameEn": "Tablet",
+      "sortOrder": 2,
+      "active": true
+    },
+    {
+      "category": "DEVICE",
+      "code": "0003",
+      "name": "카메라",
+      "nameEn": "Camera",
+      "sortOrder": 3,
+      "active": true
+    },
+    {
+      "category": "DEVICE",
+      "code": "0004",
+      "name": "휴대폰",
+      "nameEn": "Mobile Phone",
+      "sortOrder": 4,
+      "active": true
+    },
+    {
+      "category": "DEVICE",
+      "code": "0005",
+      "name": "기타전자기기",
+      "nameEn": "Other Device",
+      "sortOrder": 5,
+      "active": true
+    }
+  ]
+}
